@@ -1,0 +1,45 @@
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.config
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.manifest
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.application
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.pdb
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csprojAssemblyReference.cache
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeLibTest.TestApp.resources
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeLibTest.Properties.Resources.resources
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.GenerateResource.cache
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CoreCompileInputs.cache
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe.manifest
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.application
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe
+D:\barcode-master\barcode-master\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.pdb
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeLibTest.Properties.Resources.resources
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.GenerateResource.cache
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CoreCompileInputs.cache
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.pdb
+D:\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.config
+D:\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.manifest
+D:\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.application
+D:\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe
+D:\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.pdb
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe.manifest
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.application
+D:\BarcodeGenerator\BarcodeGenerator\bin\Release\zxing.dll
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CopyComplete
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csprojAssemblyReference.cache
+D:\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeLibTest.frmMain.resources
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.config
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe.manifest
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.application
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.exe
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\bin\Release\BarcodeGenerator.pdb
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csprojAssemblyReference.cache
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeLibTest.frmMain.resources
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeLibTest.Properties.Resources.resources
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.GenerateResource.cache
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CoreCompileInputs.cache
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe.manifest
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.application
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.csproj.CopyComplete
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.exe
+D:\ \DỰ ÁN 1\BarcodeGenerator\BarcodeGenerator\BarcodeGenerator\obj\Release\BarcodeGenerator.pdb

@@ -1,0 +1,16 @@
+D:\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+D:\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.manifest
+D:\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.application
+D:\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+D:\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+D:\BarcodeGenerator\BarcodeGenerator\bin\Debug\zxing.dll
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csprojAssemblyReference.cache
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.TestApp.resources
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe.manifest
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.application
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+D:\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
